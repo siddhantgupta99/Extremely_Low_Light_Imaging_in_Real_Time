@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restoring-Extremely-Dark-Images-In-Real-Time
 
 > The project is the official implementation of our *[CVPR 2021 paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lamba_Restoring_Extremely_Dark_Images_in_Real_Time_CVPR_2021_paper.pdf), "Restoring Extremely Dark Images in Real Time"*<br>  **&mdash; [Mohit Lamba](https://mohitlamba94.github.io/about-me/), Kaushik Mitra**
@@ -93,3 +94,6 @@ We used [train.py](https://github.com/MohitLamba94/Restoring-Extremely-Dark-Imag
 
 ## License
 Copyright © Mohit Lamba, 2021. Patent Pending. All rights reserved. Please see the [license file](https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time/blob/main/LICENSE) for terms.
+=======
+# Extremely_Low_Light_Imaging_in_Real_Time
+>>>>>>> 42404c5c431fad0e02e21ddfaa3d773485c67f07
